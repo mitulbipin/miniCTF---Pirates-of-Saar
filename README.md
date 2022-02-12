@@ -1,4 +1,4 @@
-# miniCTF---Pirates-of-Saar
+# CTF Challenge
 
 1. The Stack is kept safe, and is non-executable. However, utilizing certain internal functions might change your perspective. 
 2. The Binary has already been provided. It is important to note that the addresses might change. This changes with time. 
